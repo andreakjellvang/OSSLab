@@ -1,7 +1,7 @@
 ## OSSLab
-** This is a repository for Open Source Software lab practises**
+**This is a repository for Open Source Software lab practises**
 
-#Welcome :cowboy_hat_face:!
+#Welcome :cowboy_hat_face:
 
 My name is Andrea and I am from Norway :norway: :mountain_snow:. 
 
